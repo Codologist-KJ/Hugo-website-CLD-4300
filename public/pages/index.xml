@@ -13,14 +13,14 @@
       <link>http://localhost:1313/pages/ai_tool/</link>
       <pubDate>Mon, 24 Mar 2025 18:50:20 -0500</pubDate>
       <guid>http://localhost:1313/pages/ai_tool/</guid>
-      <description>&lt;ol&gt;&#xA;&lt;li&gt;Microsoft Copilot - &lt;a href=&#34;https://copilot.microsoft.com/&#34;&gt;https://copilot.microsoft.com/&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;ChatGPT -  &lt;a href=&#34;https://chatgpt.com/&#34;&gt;https://chatgpt.com/&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Meta -  &lt;a href=&#34;https://www.meta.ai/&#34;&gt;https://www.meta.ai/&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Claude - &lt;a href=&#34;https://claude.ai/new&#34;&gt;https://claude.ai/new&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
+      <description>&lt;p&gt;This page highlights some of the most advanced AI-powered tools currently available for productivity, creativity, and research. These platforms represent cutting-edge developments in natural language processing, machine learning, and human-computer interaction. Each tool offers unique features designed to assist with tasks like writing, coding, summarizing, brainstorming, and more.&lt;/p&gt;&#xA;&lt;h2 id=&#34;featured-tools&#34;&gt;Featured Tools&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://copilot.microsoft.com/&#34;&gt;Microsoft Copilot&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;&#xA;Integrated across Microsoft 365, Copilot enhances productivity by embedding AI directly into tools like Word, Excel, and Outlook. It helps generate content, analyze data, and streamline workflows.&lt;/p&gt;</description>
     </item>
     <item>
       <title>About</title>
       <link>http://localhost:1313/pages/about/</link>
       <pubDate>Mon, 24 Mar 2025 18:40:00 -0500</pubDate>
       <guid>http://localhost:1313/pages/about/</guid>
-      <description>&lt;p&gt;This is my Hugo Project for Class: CLD-4300 - Jan 2025 Term&lt;/p&gt;</description>
+      <description>&lt;h1 id=&#34;about-this-project&#34;&gt;About This Project&lt;/h1&gt;&#xA;&lt;p&gt;Welcome to my Hugo website project, created as part of the CLD-4300 course for the January 2025 term. This site was built to demonstrate my understanding of static website generation, content structuring, and responsive design using the Hugo framework.&lt;/p&gt;&#xA;&lt;p&gt;The project showcases a practical application of web development principles covered in class, including templating, markdown-based content creation, and deployment best practices. It reflects both technical proficiency and creative design thinking developed throughout the course.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

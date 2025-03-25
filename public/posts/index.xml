@@ -6,14 +6,14 @@
     <description>Recent content in Posts on Kevin J Houston | Hugo Website Project</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 27 Feb 2025 18:13:51 -0600</lastBuildDate>
+    <lastBuildDate>Mon, 24 Mar 2025 18:13:51 -0600</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My Project</title>
       <link>http://localhost:1313/posts/my-first-post/</link>
-      <pubDate>Thu, 27 Feb 2025 18:13:51 -0600</pubDate>
+      <pubDate>Mon, 24 Mar 2025 18:13:51 -0600</pubDate>
       <guid>http://localhost:1313/posts/my-first-post/</guid>
-      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;This is my Hugo website project.&lt;/p&gt;</description>
+      <description>&lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;&#xA;&lt;p&gt;This is my Hugo website project, created as part of the &lt;strong&gt;CLD-4300&lt;/strong&gt; course during the &lt;strong&gt;January 2025&lt;/strong&gt; term.&lt;/p&gt;&#xA;&lt;p&gt;The goal of this project is to demonstrate my understanding of static site generation using the Hugo framework. It showcases how to structure content with Markdown, apply themes and templates, and deploy a responsive, fast-loading website.&lt;/p&gt;&#xA;&lt;p&gt;Through this project, I explored key concepts in modern web development, including content management, site architecture, and customization using configuration files. The experience also provided hands-on practice with tools like Git and Visual Studio Code to manage and publish the site effectively.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
