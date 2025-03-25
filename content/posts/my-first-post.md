@@ -1,10 +1,8 @@
 +++
 date = '2025-02-27T18:13:51-06:00'
-draft = true
-title = 'My First Post'
+draft = false
+title = 'My Project'
 +++
 ## Introduction
 
-This is **bold** text, and this is *emphasized* text.
-
-Visit the [Hugo](https://gohugo.io) website!
+This is my Hugo website project.

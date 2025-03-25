@@ -1,4 +1,5 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'Kevin J Houston | Hugo Website Project'
+sectionPagesMenu = 'main'
 theme = 'ananke'

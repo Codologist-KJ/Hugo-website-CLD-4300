@@ -6,14 +6,21 @@
     <description>Recent content in Pages on Kevin J Houston | Hugo Website Project</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 18 Mar 2025 21:41:56 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 24 Mar 2025 18:50:20 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/pages/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>About The Project</title>
+      <title>AI Tools</title>
+      <link>http://localhost:1313/pages/ai_tool/</link>
+      <pubDate>Mon, 24 Mar 2025 18:50:20 -0500</pubDate>
+      <guid>http://localhost:1313/pages/ai_tool/</guid>
+      <description>&lt;ol&gt;&#xA;&lt;li&gt;Microsoft Copilot - &lt;a href=&#34;https://copilot.microsoft.com/&#34;&gt;https://copilot.microsoft.com/&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;ChatGPT -  &lt;a href=&#34;https://chatgpt.com/&#34;&gt;https://chatgpt.com/&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Meta -  &lt;a href=&#34;https://www.meta.ai/&#34;&gt;https://www.meta.ai/&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Claude - &lt;a href=&#34;https://claude.ai/new&#34;&gt;https://claude.ai/new&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
+    </item>
+    <item>
+      <title>About</title>
       <link>http://localhost:1313/pages/about/</link>
-      <pubDate>Tue, 18 Mar 2025 21:41:56 -0500</pubDate>
+      <pubDate>Mon, 24 Mar 2025 18:40:00 -0500</pubDate>
       <guid>http://localhost:1313/pages/about/</guid>
-      <description>&lt;p&gt;About My Hugo Project&lt;/p&gt;</description>
+      <description>&lt;p&gt;This is my Hugo Project for Class: CLD-4300 - Jan 2025 Term&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

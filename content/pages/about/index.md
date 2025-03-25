@@ -1,6 +1,7 @@
 +++
-date = '2025-03-18T21:41:56-05:00'
-draft = true
-title = 'About The Project'
+date = '2025-03-24T18:40:00-05:00'
+draft = false
+menus = ['main', 'footer']
+title = 'About'
 +++
-About My Hugo Project 
+This is my Hugo Project for Class: CLD-4300 - Jan 2025 Term
